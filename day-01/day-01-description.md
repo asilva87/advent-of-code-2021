@@ -84,6 +84,6 @@ In this example, there are 5 sums that are larger than the previous sum.
 
 Consider sums of a three-measurement sliding window. How many sums are larger than the previous sum?
 
-Your puzzle answer was *1217*.
+Your puzzle answer was **1217**.
 
 Both parts of this puzzle are complete! They provide two gold stars: **
